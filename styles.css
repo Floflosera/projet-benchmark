@@ -1,0 +1,94 @@
+body {
+   margin: 0;
+   padding: 0;
+   font-family: Arial, sans-serif;
+   background-color: #333;
+}
+
+header {
+   background-color: #333;
+   padding: 3%;
+   text-align: center;
+}
+
+header h1 {
+   color: #ffffff;
+   margin: 0;
+}
+
+.content {
+   display: flex;
+   background-color: #f9f5eb;
+   padding: 2%;
+   align-items: stretch;
+}
+
+.text-area,
+.options,
+.menu_choix {
+   flex-grow: 1;
+   flex-basis: 0;
+   padding: 1%;
+}
+
+.options {
+   display: flex;
+   flex-direction: column;
+}
+
+.checkbox-container {
+   display: flex;
+   align-items: center;
+}
+
+.checkbox-container input[type="checkbox"] {
+   margin-right: 5px;
+}
+
+.menu_choix {
+   margin-left: 2%;
+}
+
+.divider {
+   background-color: #000;
+   margin: 1% 0;
+}
+
+.menu_choix {
+   display: flex;
+   flex-direction: column; /* Afficher les éléments en colonne */
+}
+
+.button-container {
+   margin-top: auto; /* Pousse le bouton en bas de la div */
+   background-color: #f9f5eb;
+   padding: 1%;
+   display: flex;
+   justify-content: flex-end;
+}
+
+.button-container button {
+   padding: 10px 20px;
+   background-color: #4caf50;
+   color: #ffffff;
+   border: none;
+   cursor: pointer;
+}
+.data-table {
+   border-collapse: collapse;
+   width: 100%;
+}
+
+.data-table th, .data-table td {
+   border: 1px solid black;
+   padding: 8px;
+   text-align: left;
+}
+
+.analyse{
+   display: flex;
+   background-color: #f9f5eb;
+   padding: 2%;
+   align-items: flex-start;
+}
+

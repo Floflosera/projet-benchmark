@@ -1,0 +1,3 @@
+nom	temps (s)	cpu (%)	memoire (%)	temperature cpu (degre C)	temperature gpu (degre C)
+linaro-alip	125	17.67	31.27	51.65	48.53
+pi	331	26.17	64.12	62.76

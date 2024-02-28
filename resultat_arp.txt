@@ -1,0 +1,85 @@
+
+Interface?: 192.168.238.37 --- 0xc
+  Adresse Internet      Adresse physique      Type
+  192.168.238.87        b8-27-eb-ca-b8-0b     dynamique 
+  192.168.238.100       70-66-55-26-e0-33     dynamique 
+  192.168.238.101       70-66-55-26-e0-33     dynamique 
+  192.168.238.180       c2-1e-16-aa-48-b4     dynamique 
+  192.168.238.255       ff-ff-ff-ff-ff-ff     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+  224.0.0.251           01-00-5e-00-00-fb     statique  
+  224.0.0.252           01-00-5e-00-00-fc     statique  
+  239.255.255.250       01-00-5e-7f-ff-fa     statique  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     statique  
+
+Interface?: 192.168.56.1 --- 0xd
+  Adresse Internet      Adresse physique      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     statique  
+  224.0.0.2             01-00-5e-00-00-02     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+  224.0.0.251           01-00-5e-00-00-fb     statique  
+  224.0.0.252           01-00-5e-00-00-fc     statique  
+  239.192.152.143       01-00-5e-40-98-8f     statique  
+  239.255.102.18        01-00-5e-7f-66-12     statique  
+  239.255.255.250       01-00-5e-7f-ff-fa     statique  
+
+Interface?: 172.21.128.1 --- 0x31
+  Adresse Internet      Adresse physique      Type
+  172.21.143.255        ff-ff-ff-ff-ff-ff     statique  
+  224.0.0.2             01-00-5e-00-00-02     statique  
+  224.0.0.5             01-00-5e-00-00-05     statique  
+  224.0.0.9             01-00-5e-00-00-09     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+  224.0.0.113           01-00-5e-00-00-71     statique  
+  224.0.0.250           01-00-5e-00-00-fa     statique  
+  224.0.0.251           01-00-5e-00-00-fb     statique  
+  224.0.0.252           01-00-5e-00-00-fc     statique  
+  224.0.0.253           01-00-5e-00-00-fd     statique  
+  224.0.1.60            01-00-5e-00-01-3c     statique  
+  224.0.1.187           01-00-5e-00-01-bb     statique  
+  224.0.2.3             01-00-5e-00-02-03     statique  
+  224.0.23.12           01-00-5e-00-17-0c     statique  
+  224.77.77.77          01-00-5e-4d-4d-4d     statique  
+  225.0.0.222           01-00-5e-00-00-de     statique  
+  225.30.7.50           01-00-5e-1e-07-32     statique  
+  226.1.1.1             01-00-5e-01-01-01     statique  
+  227.2.7.7             01-00-5e-02-07-07     statique  
+  230.0.0.1             01-00-5e-00-00-01     statique  
+  232.44.44.233         01-00-5e-2c-2c-e9     statique  
+  238.238.238.238       01-00-5e-6e-ee-ee     statique  
+  239.192.152.143       01-00-5e-40-98-8f     statique  
+  239.255.102.18        01-00-5e-7f-66-12     statique  
+  239.255.255.250       01-00-5e-7f-ff-fa     statique  
+  239.255.255.251       01-00-5e-7f-ff-fb     statique  
+  239.255.255.253       01-00-5e-7f-ff-fd     statique  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     statique  
+
+Interface?: 172.30.176.1 --- 0x3e
+  Adresse Internet      Adresse physique      Type
+  172.30.191.255        ff-ff-ff-ff-ff-ff     statique  
+  224.0.0.2             01-00-5e-00-00-02     statique  
+  224.0.0.5             01-00-5e-00-00-05     statique  
+  224.0.0.9             01-00-5e-00-00-09     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+  224.0.0.113           01-00-5e-00-00-71     statique  
+  224.0.0.250           01-00-5e-00-00-fa     statique  
+  224.0.0.251           01-00-5e-00-00-fb     statique  
+  224.0.0.252           01-00-5e-00-00-fc     statique  
+  224.0.0.253           01-00-5e-00-00-fd     statique  
+  224.0.1.60            01-00-5e-00-01-3c     statique  
+  224.0.1.187           01-00-5e-00-01-bb     statique  
+  224.0.2.3             01-00-5e-00-02-03     statique  
+  224.0.23.12           01-00-5e-00-17-0c     statique  
+  224.77.77.77          01-00-5e-4d-4d-4d     statique  
+  225.0.0.222           01-00-5e-00-00-de     statique  
+  225.30.7.50           01-00-5e-1e-07-32     statique  
+  226.1.1.1             01-00-5e-01-01-01     statique  
+  227.2.7.7             01-00-5e-02-07-07     statique  
+  230.0.0.1             01-00-5e-00-00-01     statique  
+  232.44.44.233         01-00-5e-2c-2c-e9     statique  
+  238.238.238.238       01-00-5e-6e-ee-ee     statique  
+  239.192.152.143       01-00-5e-40-98-8f     statique  
+  239.255.102.18        01-00-5e-7f-66-12     statique  
+  239.255.255.250       01-00-5e-7f-ff-fa     statique  
+  239.255.255.251       01-00-5e-7f-ff-fb     statique  
+  239.255.255.253       01-00-5e-7f-ff-fd     statique  
